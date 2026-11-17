@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sowmiya Muthusamy 👋
 
-<!--
-**sowmiyamuthusamy2829-bot/sowmiyamuthusamy2829-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AWS Cloud Engineer | ECE Graduate
 
-Here are some ideas to get you started:
+I'm an Electronics and Communication Engineering graduate interested in AWS Cloud Computing and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning AWS and DevOps.
+- ☁️ Interested in Cloud Engineering and Cloud Support.
+- 🔧 Hands-on practice with AWS services and Linux fundamentals.
+- 🚀 Working on AWS cloud-based projects.
+
+### Technical Skills
+
+- **AWS:** EC2, S3, VPC, IAM, RDS, CloudFront, CloudWatch, SNS, 
+- **Operating System:** Linux
+- **Version Control:** Git, GitHub
+- **DevOps:** Jenkins, Docker (Learning)
+
+### Projects
+
+- [LearnHub – AWS Cloud-Based Online Learning Platform](https://github.com/sowmiyamuthusamy2829-bot/LearnHub)
+
+### Education
+
+BE – Electronics and Communication Engineering  
+Government College of Engineering, Dharmapuri  
+2026 | CGPA: 7.8/10
+
+### Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/sowmiya-m-600b56353)
+- [GitHub](https://github.com/sowmiyamuthusamy2829-bot)
