@@ -14,7 +14,7 @@ I'm an Electronics and Communication Engineering graduate interested in AWS Clou
 - **AWS:** EC2, S3, VPC, IAM, RDS, CloudFront, CloudWatch, SNS, 
 - **Operating System:** Linux
 - **Version Control:** Git, GitHub
-- **DevOps:** Jenkins, Docker (Learning)
+- **DevOps:** Jenkins, Docker 
 
 ### Projects
 
