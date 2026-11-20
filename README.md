@@ -1,32 +1,23 @@
-# Hi, I'm Sowmiya Muthusamy 👋
+# ☁️ Building My Journey in Cloud Computing
 
-### Aspiring AWS Cloud Engineer | ECE Graduate
+Hi! I'm an **ECE Graduate and Aspiring AWS Cloud Engineer**, passionate about cloud technologies, infrastructure management, and automation. I enjoy learning how cloud services work together to build reliable, scalable, and secure applications.
 
-I'm an Electronics and Communication Engineering graduate interested in AWS Cloud Computing and DevOps.
+🔭 **What I'm Building**  
+Developing hands-on AWS projects, including LearnHub — a cloud-based online learning platform built using AWS 3-tier architecture.
 
-- 🌱 Currently learning AWS and DevOps.
-- ☁️ Interested in Cloud Engineering and Cloud Support.
-- 🔧 Hands-on practice with AWS services and Linux fundamentals.
-- 🚀 Working on AWS cloud-based projects.
+🌱 **What I'm Exploring**  
+AWS Cloud Services, Linux Administration, Computer Networking, Git, Docker, Jenkins, CI/CD, and DevOps practices.
 
-### Technical Skills
+🛠️ **My Technical Interests**  
+Cloud Infrastructure | AWS Architecture | Deployment Automation | Monitoring | Troubleshooting | Containerization
 
-- **AWS:** EC2, S3, VPC, IAM, RDS, CloudFront, CloudWatch, SNS, 
-- **Operating System:** Linux
-- **Version Control:** Git, GitHub
-- **DevOps:** Jenkins, Docker 
+🤝 **Collaboration Interests**  
+Interested in working on cloud computing projects, infrastructure automation, and beginner-friendly DevOps initiatives.
 
-### Projects
+🎯 **My Career Goal**  
+To grow as an AWS Cloud Engineer by developing practical skills, solving infrastructure challenges, and learning industry-standard cloud practices.
 
-- [LearnHub – AWS Cloud-Based Online Learning Platform](https://github.com/sowmiyamuthusamy2829-bot/LearnHub)
+⚡ **Beyond Learning**  
+I believe the best way to understand technology is to build it, experiment with it, troubleshoot it, and keep improving.
 
-### Education
-
-BE – Electronics and Communication Engineering  
-Government College of Engineering, Dharmapuri  
-2026 | CGPA: 7.8/10
-
-### Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/sowmiya-m-600b56353)
-- [GitHub](https://github.com/sowmiyamuthusamy2829-bot)
+🚀 **One step at a time, turning cloud concepts into real-world solutions!**
