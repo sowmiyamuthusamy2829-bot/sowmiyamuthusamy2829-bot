@@ -1,6 +1,6 @@
 # ☁️ Building My Journey in Cloud Computing
 
-Hi! I'm an **ECE Graduate and Aspiring AWS Cloud Engineer**, passionate about cloud technologies, infrastructure management, and automation. I enjoy learning how cloud services work together to build reliable, scalable, and secure applications.
+Hi, I'm Sowmiya Muthusamy — an Electronics and Communication Engineering graduate and aspiring AWS Cloud Engineer, passionate about cloud technologies, infrastructure management, and automation.
 
 🔭 **What I'm Building**  
 Developing hands-on AWS projects, including LearnHub — a cloud-based online learning platform built using AWS 3-tier architecture.
